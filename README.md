@@ -50,4 +50,5 @@
 <a href = "https://twitter.com/VaradiyilArjun"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/_arjuoo__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/arjun.appu.5454021"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href = "https://github.com/arjunvaradiyill"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
 </p>
