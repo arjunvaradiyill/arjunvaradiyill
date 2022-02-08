@@ -20,8 +20,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <code><img height="40" src="https://github.com/rafitc/rafitc/blob/main/icons/icons8-c-programming.svg"></code>
-    <code><img height="40" src="https://github.com/rafitc/rafitc/blob/main/icons/icons8-c%2B%2B.svg"></code>
+     <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
