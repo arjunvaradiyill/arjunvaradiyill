@@ -46,7 +46,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "www.linkedin.com/in/arjunvaradiyill"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/arjunvaradiyill/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/VaradiyilArjun"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/_arjuoo__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/arjun.appu.5454021"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
