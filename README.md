@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **arjunvaradiyil203@gmail.com**
 
-[![@arjunvaradiyill's Holopin board](https://holopin.me/arjunvaradiyill)](https://holopin.io/@arjunvaradiyill)
 
 
 ## 🚀 Languages and Tools:
@@ -40,6 +39,8 @@
 
 
 </p>
+
+     [![@arjunvaradiyill's Holopin board](https://holopin.me/arjunvaradiyill)](https://holopin.io/@arjunvaradiyill)
 
 
 ## Connect with me:
