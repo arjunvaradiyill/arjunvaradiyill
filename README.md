@@ -54,6 +54,6 @@
 ------------------------------ HACK0BERFEST 2022 ------------------------------------------------------------
 
 [![@arjunvaradiyill's Holopin board](https://holopin.me/arjunvaradiyill)](https://holopin.io/@arjunvaradiyill)
-[![@devanandaslal's Holopin board](https://holopin.me/devanandaslal)](https://holopin.io/@devanandaslal)
+
 
 
