@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm   ARJUN </h1>
-<h3 align="center">I'm a passionate FRONT-END-DEVLOPER & UI/UX DESIGNER from India.</h3>
+<h3 align="center">I'm a passionate FRONT-END-DEVLOPER & Cyber security enthusiast &UI/UX DESIGNER from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently Studying b.tech computer scicence engineering in Cochin University of Science and Technology 
 
-- 🌱 I’m currently learning **REACT NATIVE**
+- 🌱 I’m currently learning Cyber security 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
