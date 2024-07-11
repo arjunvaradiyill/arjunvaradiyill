@@ -2,13 +2,22 @@
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arjun</h1>
 <h3 align="center">I'm a passionate Front-End Developer, Cyber Security Enthusiast & UI/UX Designer from India.</h3>
+
+
 🙋‍♂️ About Me
+
 🔭 I’ve completed my B.Tech in Computer Science Engineering at Cochin University of Science and Technology.
+
 🌱 I’m currently learning MERN Stack and Cyber Security.
+
 👯 I’m looking to collaborate on Open Source Projects.
+
 👨‍💻 All of my projects are available at My GitHub.
+
 📫 How to reach me: arjunvaradiyil203@gmail.com.
+
 🚀 Languages and Tools:
+
 <p align="left"> 
     <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
@@ -22,6 +31,8 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
+
+
 Connect with me:
 <p align="left">
     <a href="https://www.linkedin.com/in/arjunvaradiyill/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
