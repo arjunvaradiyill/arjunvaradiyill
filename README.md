@@ -52,7 +52,4 @@
 <a href = "https://github.com/arjunvaradiyill"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
 </p>
 
------------------------------- HACK0BERFEST 2022 -------------------------------------------------------------
 
-[![@arjunvaradiyill's Holopin board](https://holopin.me/arjunvaradiyill)](https://holopin.io/@arjunvaradiyill)
----------------------------------------------------------------------------------------------------------------
