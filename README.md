@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Studying b.tech computer scicence engineering in Cochin University of Science and Technology 
+- 🔭 I’m completed my  b.tech computer science engineering at Cochin University of Science and Technology 
 
-- 🌱 I’m currently learning Cyber security 
+- 🌱 I’m currently learning MERN STACK AND CYBER SECURITY
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -52,10 +52,7 @@
 <a href = "https://github.com/arjunvaradiyill"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
 </p>
 
------------------------------- HACK0BERFEST 2022 ------------------------------------------------------------
+------------------------------ HACK0BERFEST 2022 -------------------------------------------------------------
 
 [![@arjunvaradiyill's Holopin board](https://holopin.me/arjunvaradiyill)](https://holopin.io/@arjunvaradiyill)
-
-
-<script src="https://tryhackme.com/badge/1930715"></script>
-
+---------------------------------------------------------------------------------------------------------------
