@@ -1,46 +1,49 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" alt="Profile Banner"/></a>
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arjun</h1>
-<h3 align="center">Web Developer & Cybersecurity Enthusiast | Building Secure and Scalable Web Solutions</h3>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">, I'm Arjun</h1>
+<h3 align="center">Web Developer & Cybersecurity Enthusiast | Passionate About Building Secure Digital Experiences</h3>
 
+---
 
-🙋‍♂️ About Me
+### 🌟 About Me
 
-🔭 I’ve completed my B.Tech in Computer Science Engineering at Cochin University of Science and Technology.
+- 🎓 **B.Tech Graduate** in Computer Science Engineering from **Cochin University of Science and Technology**.
+- 🌱 Currently mastering **MERN Stack Development** and diving deep into **Cybersecurity**.
+- 🔍 Exploring opportunities in **Full-Stack Development** and **Digital Security**.
+- 🧑‍🏫 Aspiring **Tech Educator** – Sharing knowledge through blogs and tutorials.
+- ✨ **Personal Goal:** Build a tech community and mentor budding developers.
 
-🌱 I’m currently learning MERN Stack and Cyber Security.
+---
 
-----
-
-
-👯 I’m looking to collaborate on Open Source Projects.
-
-👨‍💻 All of my projects are available at My GitHub.
-
-📫 How to reach me: arjunvaradiyil203@gmail.com.
-
-🚀 Languages and Tools:
+### 🚀 Skills and Tools
 
 <p align="left"> 
-    <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
-    <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://www.geeksforgeeks.org/python-programming-language/?ref=shm" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/> 
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/> 
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> 
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/> 
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/> 
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/> 
+    <img src="https://img.icons8.com/fluent/50/000000/python.png" alt="Python"/> 
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/> 
 </p>
 
+---
 
-Connect with me:
+### 📈 Current Projects
+
+- 🌐 **Portfolio Website**: A visually engaging personal website showcasing my projects and journey.
+- 🔒 **Cybersecurity Blog**: A platform for sharing cybersecurity practices and tools.
+
+---
+
+### 🌍 Connect with Me
+
 <p align="left">
-    <a href="https://www.linkedin.com/in/arjunvaradiyill/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href="https://twitter.com/VaradiyilArjun"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-    <a href="https://www.instagram.com/_arjuoo__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-    <a href="https://www.facebook.com/arjun.appu.5454021"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-    <a href="https://github.com/arjunvaradiyill"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
+    <a href="https://www.linkedin.com/in/arjunvaradiyill/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
+    <a href="https://twitter.com/VaradiyilArjun" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
+    <a href="https://www.instagram.com/_arjuoo__/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
+    <a href="https://github.com/arjunvaradiyill" target="_blank"><img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub"/></a>
 </p>
+
+---
