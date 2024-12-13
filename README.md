@@ -17,23 +17,52 @@
 
 ### 🚀 Skills and Tools
 
-<p align="left"> 
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/> **HTML5**: ★★★★☆
-    <br>
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/> **CSS3**: ★★★★☆
-    <br>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> **JavaScript**: ★★★★☆
-    <br>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/> **React**: ★★★☆☆
-    <br>
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/> **Node.js**: ★★★☆☆
-    <br>
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/> **MongoDB**: ★★★☆☆
-    <br>
-    <img src="https://img.icons8.com/fluent/50/000000/python.png" alt="Python"/> **Python**: ★★★★☆
-    <br>
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/> **Git**: ★★★★☆
-</p>
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/></td>
+    <td>HTML5</td>
+    <td>
+      <span style="display:inline-block; width:15px; height:15px; border-radius:50%; background:#00cc44;"></span>
+      <span style="display:inline-block; width:15px; height:15px; border-radius:50%; background:#00cc44;"></span>
+      <span style="display:inline-block; width:15px; height:15px; border-radius:50%; background:#00cc44;"></span>
+      <span style="display:inline-block; width:15px; height:15px; border-radius:50%; background:#00cc44;"></span>
+      <span style="display:inline-block; width:15px; height:15px; border-radius:50%; background:#e0e0e0;"></span>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/></td>
+    <td>CSS3</td>
+    <td>
+      <span style="display:inline-block; width:15px; height:15px; border-radius:50%; background:#00cc44;"></span>
+      <span style="display:inline-block; width:15px; height:15px; border-radius:50%; background:#00cc44;"></span>
+      <span style="display:inline-block; width:15px; height:15px; border-radius:50%; background:#00cc44;"></span>
+      <span style="display:inline-block; width:15px; height:15px; border-radius:50%; background:#00cc44;"></span>
+      <span style="display:inline-block; width:15px; height:15px; border-radius:50%; background:#e0e0e0;"></span>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></td>
+    <td>JavaScript</td>
+    <td>
+      <span style="display:inline-block; width:15px; height:15px; border-radius:50%; background:#00cc44;"></span>
+      <span style="display:inline-block; width:15px; height:15px; border-radius:50%; background:#00cc44;"></span>
+      <span style="display:inline-block; width:15px; height:15px; border-radius:50%; background:#00cc44;"></span>
+      <span style="display:inline-block; width:15px; height:15px; border-radius:50%; background:#e0e0e0;"></span>
+      <span style="display:inline-block; width:15px; height:15px; border-radius:50%; background:#e0e0e0;"></span>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/></td>
+    <td>React</td>
+    <td>
+      <span style="display:inline-block; width:15px; height:15px; border-radius:50%; background:#00cc44;"></span>
+      <span style="display:inline-block; width:15px; height:15px; border-radius:50%; background:#00cc44;"></span>
+      <span style="display:inline-block; width:15px; height:15px; border-radius:50%; background:#e0e0e0;"></span>
+      <span style="display:inline-block; width:15px; height:15px; border-radius:50%; background:#e0e0e0;"></span>
+      <span style="display:inline-block; width:15px; height:15px; border-radius:50%; background:#e0e0e0;"></span>
+    </td>
+  </tr>
+</table>
 
 ---
 
