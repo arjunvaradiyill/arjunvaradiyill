@@ -18,14 +18,21 @@
 ### 🚀 Skills and Tools
 
 <p align="left"> 
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/> 
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/> 
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> 
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/> 
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/> 
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/> 
-    <img src="https://img.icons8.com/fluent/50/000000/python.png" alt="Python"/> 
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/> 
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/> **HTML5**: ★★★★☆
+    <br>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/> **CSS3**: ★★★★☆
+    <br>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> **JavaScript**: ★★★★☆
+    <br>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/> **React**: ★★★☆☆
+    <br>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/> **Node.js**: ★★★☆☆
+    <br>
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/> **MongoDB**: ★★★☆☆
+    <br>
+    <img src="https://img.icons8.com/fluent/50/000000/python.png" alt="Python"/> **Python**: ★★★★☆
+    <br>
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/> **Git**: ★★★★☆
 </p>
 
 ---
@@ -47,3 +54,14 @@
 </p>
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=arjunvaradiyill&show_icons=true&theme=radical" alt="Arjun's GitHub Stats" width="48%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunvaradiyill&theme=radical" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunvaradiyill&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+</p>
