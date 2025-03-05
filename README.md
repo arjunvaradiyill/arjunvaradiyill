@@ -30,18 +30,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjunvaradiyill&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunvaradiyill&theme=radical" alt="Streak Stats" width="50%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunvaradiyill&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
-</p>
-
----
 
 ### 🌍 Connect with Me
 
@@ -54,17 +42,11 @@
 
 ---
 
-### 🔥 My Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunvaradiyill&theme=dracula" alt="Contribution Graph" width="100%"/>
-</p>
-
----
 
 ### 📈 Current Projects
 
-- 🌐 **Portfolio Website**: A visually engaging personal website showcasing my journey and projects.
+- 🌐 **coursewebapp**:"An Educational Course Purchase Web App Using the MERN Stack"
+
 - 🔒 **Cybersecurity Blog**: A platform sharing cybersecurity tips, tools, and best practices.
 
 ---
