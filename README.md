@@ -45,7 +45,7 @@
     <a href="https://www.linkedin.com/in/arjunvaradiyill/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
     <a href="https://twitter.com/VaradiyilArjun" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
     <a href="https://www.instagram.com/_arjuoo__/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
-    <a href="https://github.com/arjunvaradiyill" target="_blank"><img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub"/></a>
+    <a href="(https://www.instagram.com/_arjuo__/)" target="_blank"><img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub"/></a>
 </p>
 
 ---
